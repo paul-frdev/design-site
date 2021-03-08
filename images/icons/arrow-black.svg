@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.81" height="28" viewBox="0 0 40.81 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2f2f30;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1046.16" y="5411" width="40.81" height="28" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#000105"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="1"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" mode="multiply" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Фигура_5" data-name="Фигура 5" class="cls-1" d="M1086.96,5427.8H1057l11.33,11.19h-8.01L1046.15,5425l14.17-14h8.01L1057,5422.2h29.96v5.6Z" transform="translate(-1046.16 -5411)"/>
+</svg>

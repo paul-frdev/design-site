@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="20" viewBox="0 0 36 20">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 18px;
+        filter: url(#filter);
+        fill: #262626;
+        font-family: Roboto;
+        font-weight: 200;
+      }
+    </style>
+    <filter id="filter" x="947" y="8133" width="36" height="20" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="_копия_2" data-name="&gt; копия 2" class="cls-1" transform="translate(-11.033 -1.787) rotate(90) scale(2.521 4.949)">&gt;</text>
+</svg>
