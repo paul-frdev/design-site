@@ -54,11 +54,11 @@ $(function () {
       },
     }, 
       {
-        breakpoint: 1280,
+        breakpoint: 1260,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
-          arrows: false,
+          arrows: true,
         }
       },
       {
@@ -66,11 +66,11 @@ $(function () {
         settings: {
           slidesToShow: 1,
           slidesToScroll: 4,
-          arrows: false,
+          arrows: true,
         },
       },
       {
-        breakpoint: 500,
+        breakpoint: 520,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 4,
